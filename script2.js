@@ -2,7 +2,7 @@ let button = document.getElementById("test")
 
 
 button.addEventListener("click", ()=>{
-    button.innerHTML= "aperte"
+    button.innerHTML= "aperte "
     button.style.backgroundColor="pink"
 })
 
